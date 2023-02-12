@@ -1,2 +1,3 @@
-# anywhere-ui-showcase-production
-AnywhereUI showcase. Production
+# AnywhereUI Web Components Demo
+
+Rich web components, includes framework bindings.
